@@ -20,6 +20,7 @@ print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print(3 + 2 < 5 - 7)
 
 # My math skill demo
+# How to do things in Mother Russia
 
 print("We have too much men for one bottle of russian vodka")
 print("Fourty two men, 50 ounces of russian vodka, how do we split?")
@@ -30,3 +31,13 @@ print("Subtract men")
 print("how do we subtract man? Like dis")
 print(42 % 8)
 print("Now that is number of men we must decease")
+
+# experiment
+
+print(6/7)
+# that is a floating number my friend
+# floating number is when we deal with no fraction and all decimal
+
+print(154738/20478)
+print(1057382956/1047836)
+print(11/100000)
