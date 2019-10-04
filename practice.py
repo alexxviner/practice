@@ -43,3 +43,15 @@ print(1057382956/1047836)
 print(11/100000)
 print(3/13)
 print(517/518)
+
+# More variables and playing with output
+myName = "Alex"
+myAge = 15
+myHeight = 72 # inches
+myEyes = "Brown"
+myHair = "yes, some"
+
+print("Let's talk about %s." % myName)
+print("He's %d inches tall." % myHeight)
+print("if I add %d and %d, I get %d." % (myAge, myHeight, myAge+myHeight))
+# format specifires
